@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\DS\Dempster–Shafer\bin\Debug\Dempster–Shafer.exe.config
+C:\Users\User\Desktop\DS\Dempster–Shafer\bin\Debug\Dempster–Shafer.exe
+C:\Users\User\Desktop\DS\Dempster–Shafer\bin\Debug\Dempster–Shafer.pdb
+C:\Users\User\Desktop\DS\Dempster–Shafer\obj\Debug\Dempster–Shafer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DS\Dempster–Shafer\obj\Debug\Dempster_Shafer.Form1.resources
+C:\Users\User\Desktop\DS\Dempster–Shafer\obj\Debug\Dempster_Shafer.Properties.Resources.resources
+C:\Users\User\Desktop\DS\Dempster–Shafer\obj\Debug\Dempster–Shafer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DS\Dempster–Shafer\obj\Debug\Dempster–Shafer.exe
+C:\Users\User\Desktop\DS\Dempster–Shafer\obj\Debug\Dempster–Shafer.pdb
